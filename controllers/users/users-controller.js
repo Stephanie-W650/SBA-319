@@ -114,5 +114,3 @@ export {
   deleteUsers,
   updateUsers
 }
-
-
